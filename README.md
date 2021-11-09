@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Youngbuga
+- 👋 Hi, I’m  Juan Mariano A.K.A @Youngbuga
 - 👀 I’m interested in Html Css And Automation 
 - 🌱 I’m currently learning Html/Css/Js
 
